@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "mobile",
+        "1": "technical",
+        "2": "compliance",
+        "3": "containers",
+        "4": "web scraping"
+    },
+    "demo_page": "https://apex-charts-79431.bubbleapps.io/version-test/disable_right_click?debug_mode=true",
+    "description": "This plugin can be used to disable or prevent right click. either by the disable it by inseting the visual element in the page or by action\n\nDemo: https://apex-charts-79431.bubbleapps.io/version-test/disable_right_click?debug_mode=true",
+    "image": "//meta-q.cdn.bubble.io/f1725284071806x522071206035277700/Screen%20Shot%202024-09-02%20at%2020.34.12.png",
+    "license": "open_source",
+    "name": "Disable Right Click"
+}
